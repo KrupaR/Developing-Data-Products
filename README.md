@@ -1,11 +1,11 @@
 # Developing-Data-Products
 #### Course Project 
 
-##Predicting average weight of women aged between 30-39 years based on height, using Women dataset of R
+###Predicting average weight of women aged between 30-39 years based on height, using Women dataset of R
 
 #####The Women data frame with 15 observations on 2 variables.
-###### [,1]	height	numeric	Height (in)
-###### [,2]	weight	numeric	Weight (lbs)
+###### 1.	height	numeric	Height (in)
+###### 2.	weight	numeric	Weight (lbs)
 
 #####Details
 ######The data set appears to have been taken from the American Society of Actuaries Build and Blood Pressure Study for some (unknown to us) earlier year.
